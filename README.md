@@ -58,13 +58,6 @@
 
 ---
 
-## 📸 Aperçu de la commande `+aide`
-
-> *(Ajoute ici une capture d’écran de l’embed si disponible)*
-> ![Exemple d'embed d'aide](https://your-screenshot-link.png)
-
----
-
 ## 📚 Technologies utilisées
 
 * [discord.py](https://github.com/Rapptz/discord.py)
