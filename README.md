@@ -74,5 +74,4 @@ N'hésitez pas à contribuer ou à ouvrir une *issue* !
 
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d'informations.
 
-```
 
